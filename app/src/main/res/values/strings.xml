@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LGBT Traveller</string>
+    <string name="Q1">Can you be openly gay?</string>
+    <string name="Q3">Can you show affection in public?</string>
+    <string name="Q4">Can you cross-dress?</string>
+    <string name="Q2">Do you feel safe?</string>
+    <string name="A1">Yes.</string>
+    <string name="A2">No.</string>
+    <string name="A3">Maybe.</string>
+    <string name="A4">I don\'t know.</string>
+    <string name="S">Answer here</string>
+
+
+</resources>
